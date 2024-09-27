@@ -1,6 +1,6 @@
 ## Ola, sou Rafael Santos 👋
 
-Apenas um estudante desbravando o mundo da Ciência da Computação.
+Graduando Bacharelado em Ciência da Computação na UFPR - Universidade Federal do Paraná
 
 ![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaaels2&show_icons=true&theme=radical)
 
