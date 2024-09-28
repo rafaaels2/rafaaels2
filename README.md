@@ -1,4 +1,4 @@
-## Hi, Eu sou Rafael Santos! 👋
+## Ola, Eu sou Rafael Santos! 👋
 
 * 🌎 Curitiba - PR | Brasil
 * 🎓 Graduando Bacharelado em Ciência da Computação na Universidade Federal do Paraná | UFPR <br>
